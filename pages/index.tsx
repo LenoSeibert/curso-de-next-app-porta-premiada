@@ -1,6 +1,5 @@
 import { useState } from "react";
 import Porta from "../components/Porta";
-import PortaModel from '../model/porta'
 import { criarPortas, atualizarPortas } from '../functions/portas'
 
 
